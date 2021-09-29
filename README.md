@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Jason. A junior student studying Actuarial Science at Institut Teknologi Bandung. I have interest in data and coding which are somewhat related to my major. Please feel free to explore my repositories.
+
+### Find me through 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonhadiputra/)](https://www.linkedin.com/in/jasonhadiputra/)
+<!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+-->
+
 <!--
 **jasonhadiputra/jasonhadiputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
