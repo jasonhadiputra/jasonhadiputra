@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jason. A junior student studying Actuarial Science at Institut Teknologi Bandung. I have interest in data and coding which are somewhat related to my major. Please feel free to explore my repositories.
+I'm Jason. A final-year Actuarial Science student at Institut Teknologi Bandung. I have interest in data and coding which are somewhat related to my major. Please feel free to explore my repositories.
 
 ### Find me through 🌎
 
