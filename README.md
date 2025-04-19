@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Jason. A final-year Actuarial Science student at Institut Teknologi Bandung. I have interest in data and coding which are somewhat related to my major. Please feel free to explore my repositories.
+My name is Jason, and I am a data scientist with a deep interest in mathematics, computer science, and finance.
 
 ### Find me through 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasonhadiputra/)](https://www.linkedin.com/in/jasonhadiputra/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/jasonhadinataputra/)
 <!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
 -->
 
