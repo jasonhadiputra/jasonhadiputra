@@ -4,7 +4,7 @@ My name is Jason, and I am a data scientist with a deep interest in mathematics,
 
 ### Find me through 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/jasonhadinataputra/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white/)](https://www.linkedin.com/in/jasonhadiputra/)
 <!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
 -->
 
